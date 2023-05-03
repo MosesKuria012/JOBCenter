@@ -1,0 +1,166 @@
+/*general*/
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+/*navbar*/
+
+header nav {
+  display: flex;
+  gap: 16px;
+  justify-content: end;
+  max-width: 1700px;
+  margin: 0 auto;
+}
+
+header nav h1 {
+  margin-right: auto;
+  border-bottom: 3px solid lightgreen;
+}
+
+header nav a {
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+header nav a.active {
+  background: lightgreen;
+}
+
+/*FAQ links and Contacts*/
+
+.navlink {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  max-width: 1700px;
+  margin: 0 auto;
+}
+
+.navlink a {
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 4px;
+}
+.navlink a.active {
+  background: lightgreen;
+}
+
+/*Footer*/
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p {
+  font-size: 20px;
+  color: #555;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.FAQ {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.FAQ .question {
+  background: rgb(8, 183, 136);
+  padding: 5px 20px;
+  background-origin: 4px;
+  margin: 20px 0;
+}
+h3 {
+  text-align: center;
+}
+.contact {
+  text-align: center;
+}
+.contact-header {
+  text-align: center;
+}
+
+.contact-header {
+  text-align: center;
+}
+
+.contact {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+/* Form*/
+.contact form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact label {
+  margin-bottom: 10px;
+}
+
+.contact input[type='text'],
+.contact input[type='email'],
+.contact textarea {
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 5px;
+  width: 25%;
+  box-sizing: border-box;
+}
+
+.contact input[type='text']:focus,
+.contact input[type='email']:focus,
+.contact textarea:focus {
+  outline: none;
+  box-shadow: 0px 0px 3px 1px #e0e0e0;
+}
+
+.contact .submit {
+  background-color: #4caf50;
+  color: #fff;
+  font-size: 19px;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+  width: 10%;
+  margin-top: 10px;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contact .submit:hover {
+  background-color: #3e8e41;
+}
+
+.help {
+  text-align: center;
+}

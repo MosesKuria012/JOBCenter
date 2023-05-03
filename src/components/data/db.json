@@ -1,0 +1,46 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "salary": 200000,
+      "location": "Thika, Kiambu"
+    },
+    {
+      "id": 2,
+      "title": "Plumber",
+      "salary": 40000,
+      "location": "Kasarani, Nairobi"
+    },
+    {
+      "id": 3,
+      "title": "Physical Trainer",
+      "salary": 75000,
+      "location": "Kileleshwa, Nairobi"
+    },
+    {
+      "id": 4,
+      "title": "Javascript Developer",
+      "salary": 40000,
+      "location": "Mlolongo, Machakos"
+    },
+    {
+      "id": 5,
+      "title": "Tutorial Maker",
+      "salary": 35000,
+      "location": "Juja, Kiambu"
+    },
+    {
+      "id": 6,
+      "title": "Website Manager",
+      "salary": 50000,
+      "location": "Manchester, United Kingdom"
+    },
+    {
+      "id": 7,
+      "title": "Food Tester",
+      "salary": 30000,
+      "location": "Westlands, Nairobi"
+    }
+  ]
+}
