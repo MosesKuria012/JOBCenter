@@ -1,0 +1,66 @@
+
+.congratulations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 75px;
+  }
+  
+  .congratulations img {
+    width: 200px;
+    height: 200px;
+  }
+  .congratulations {
+    background-image: url(/src/Untitled.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .congratulations img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .congratulations p {
+    font-size: 24px;
+    margin: 20px 0;
+    text-align: center;
+  }
+  .go-back {
+    background-color: green;
+    color: white;
+    font-size: 0.25em;
+    padding: 10px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+    font-style: bold;
+  }
+  .go-back:hover {
+    background-color: green;
+    color: white;
+    font-size: 0.25em;
+    padding: 10px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+    font-style: bold;
+  }
+ 
+.loading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  }
+  
