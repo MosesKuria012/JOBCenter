@@ -164,3 +164,35 @@ h3 {
 .help {
   text-align: center;
 }
+
+.service-card{
+  border: 1px solid #ccc;
+  padding: 14px;
+  margin-bottom: 5px; 
+
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px #ccc;
+  color: #253b56;
+  margin: 12px 0px;
+
+}
+
+.searchbtn{
+  background-color: #3e8e41;
+  position: relative;
+  right:100;
+  
+}
+
+.service-card:hover{
+  box-shadow:0.5rem 0.75rem 1.5rem #555 ;
+}
+
+#serviceheader {
+  
+  padding: 20px;
+  font-size:35px ;
+}
+
+
+     

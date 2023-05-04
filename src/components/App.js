@@ -5,6 +5,7 @@ import About from './pages/About'
 import Faq from './Help/Faq'
 import Contact from './Help/Contact'
 import Help from './pages/Help'
+import Services from './pages/Services'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
           <NavLink to="/"> Home</NavLink>
           <NavLink to="about"> About US</NavLink>
           <NavLink to="help">Help</NavLink>
+          <NavLink to="services">Services</NavLink>
         </nav>
       </header>
       <main>
@@ -23,8 +25,9 @@ const App = () => {
           <Route path="about" element={<About />} />
           <Route path="help" element={<Help />}>
             <Route path="faq" element={<Faq />} />{' '}
-            <Route path="contact" element={<Contact />} />{' '}
+            <Route path="contact" element={<Contact />} />{' '} 
           </Route>
+          <Route path="services" element={<Services />}/> 
         </Routes>
       </main>
     </BrowserRouter>
