@@ -8,7 +8,7 @@
       "description": "Expert in building high-quality web applications using React.js and related technologies",
       "contact": {
         "email": "reactdeveloper@gmail.com",
-        "phone": "+254202313371" 
+        "phone": "+254202313371"
       }
     },
     {
@@ -93,7 +93,7 @@
       "title": "Graphic Designer",
       "salary": 45000,
       "location": "Langata, Nairobi",
-      "description":"Responsible for creating visually appealing designs that communicate a specific message or concept to the intended audience.", 
+      "description": "Responsible for creating visually appealing designs that communicate a specific message or concept to the intended audience.",
       "contact": {
         "email": "graphicdesigner@gmail.com",
         "phone": "++25420245330 "
@@ -104,7 +104,7 @@
       "title": "Electrician",
       "salary": 50000,
       "location": "Mombasa, Coast",
-      "description":"Installs and maintains electrical equipment.", 
+      "description": "Installs and maintains electrical equipment.",
       "contact": {
         "email": "electriciankenya@gmail.com",
         "phone": "+25420890635 "
@@ -115,7 +115,7 @@
       "title": "Data Analyst",
       "salary": 80000,
       "location": "Karen, Nairobi",
-      "description":"Gathers, cleans, and studies data sets to help solve problems.", 
+      "description": "Gathers, cleans, and studies data sets to help solve problems.",
       "contact": {
         "email": "dataanalyst@gmail.com",
         "phone": "+254-20557930 "
@@ -126,7 +126,7 @@
       "title": "Copywriter",
       "salary": 40000,
       "location": "Rongai, Kajiado",
-      "description":" Writes with the intent of educating, persuading or influencing their audience, often with the goal of selling a product or service.", 
+      "description": " Writes with the intent of educating, persuading or influencing their audience, often with the goal of selling a product or service.",
       "contact": {
         "email": "copywriterkenya@gmail.com",
         "phone": "+25420245330 "
@@ -137,7 +137,7 @@
       "title": "Marketing Manager",
       "salary": 120000,
       "location": "Westlands, Nairobi",
-      "description":"Involved in every aspect of marketing, from putting together estimates and budgets for campaigns to submitting them for approval.", 
+      "description": "Involved in every aspect of marketing, from putting together estimates and budgets for campaigns to submitting them for approval.",
       "contact": {
         "email": "marheting@gmail.com",
         "phone": "+254202227290 "
@@ -148,7 +148,7 @@
       "title": "Doctor",
       "salary": 205000,
       "location": "Westlands, Nairobi",
-      "description":"A person who is trained and licensed to treat sick and injured people.",
+      "description": "A person who is trained and licensed to treat sick and injured people.",
       "contact": {
         "email": "doctorkenya@gmail.com",
         "phone": "+25420890635 "

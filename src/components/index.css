@@ -8,7 +8,7 @@
 
 p {
   margin: 20px 0;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 /*navbar*/
@@ -90,7 +90,7 @@ h1 {
   background-origin: 4px;
   margin: 20px 0;
 }
-h3 {
+h2 {
   text-align: center;
 }
 .contact {
@@ -165,34 +165,47 @@ h3 {
   text-align: center;
 }
 
-.service-card{
+.service-card {
   border: 1px solid #ccc;
   padding: 14px;
-  margin-bottom: 5px; 
+  margin-bottom: 5px;
 
   border-radius: 8px;
   box-shadow: 0px 0px 8px #ccc;
   color: #253b56;
   margin: 12px 0px;
-
+}
+.container {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.searchbtn{
+img {
+  width: 50vw;
+  height: 90vh;
+  display: block;
+}
+
+.home-h1 {
+  font-size: 40px;
+}
+
+.searchbtn {
   background-color: #3e8e41;
   position: relative;
-  right:100;
-  
+  right: 100;
 }
 
-.service-card:hover{
-  box-shadow:0.5rem 0.75rem 1.5rem #555 ;
+.service-card:hover {
+  box-shadow: 0.5rem 0.75rem 1.5rem #555;
 }
 
 #serviceheader {
-  
   padding: 20px;
-  font-size:35px ;
+  font-size: 35px;
 }
 
-
-     
+/*home styling */
